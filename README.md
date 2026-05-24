@@ -328,7 +328,7 @@ This project is created for the GISUL Fullstack Intern Assessment.
 
 ## 👤 Author
 
-[Your Name]
+Manoj M N
 
 ## 🙏 Acknowledgments
 
